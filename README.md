@@ -47,7 +47,7 @@ FinanceMasterApp is a personal finance management application that helps users t
 
 1. **Run the Flask application:**
     ```sh
-    python app.py
+    python app1.py
     ```
 
 2. **Open your web browser and navigate to:**
