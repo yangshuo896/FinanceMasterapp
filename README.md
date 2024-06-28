@@ -29,31 +29,15 @@ FinanceMasterApp is a personal finance management application that helps users t
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/yangshuo896/FinanceMasterapp.git
-cd FinanceMasterApp
     cd FinanceMasterApp
     ```
 
-2. **Create a virtual environment:**
-    ```sh
-    python -m venv venv
-    ```
-
-3. **Activate the virtual environment:**
-    - On Windows:
-        ```sh
-        venv\Scripts\activate
-        ```
-    - On macOS and Linux:
-        ```sh
-        source venv/bin/activate
-        ```
-
-4. **Install the required packages:**
+2. **Install the required packages:**
     ```sh
     pip install -r requirements.txt
     ```
 
-5. **Ensure the data file is present:**
+3. **Ensure the data file is present:**
     - Place the `personal finance data 2.xlsx` file in the `FinanceMasterApp` directory.
 
 ## Usage
