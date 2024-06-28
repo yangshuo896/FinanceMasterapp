@@ -28,7 +28,7 @@ FinanceMasterApp is a personal finance management application that helps users t
 
 1. **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/FinanceMasterApp.git](https://github.com/yangshuo896/FinanceMasterapp.git)
+    git clone https://github.com/yangshuo896/FinanceMasterapp.git
     cd FinanceMasterApp
     ```
 
@@ -53,7 +53,7 @@ FinanceMasterApp is a personal finance management application that helps users t
     ```
 
 5. **Ensure the data file is present:**
-    - Place the `personal_finance_data_2.xlsx` file in the `FinanceMasterApp` directory.
+    - Place the `personal finance data 2.xlsx` file in the `FinanceMasterApp` directory.
 
 ## Usage
 
