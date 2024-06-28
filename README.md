@@ -34,7 +34,10 @@ FinanceMasterApp is a personal finance management application that helps users t
 
 2. **Install the required packages:**
     ```sh
-    pip install -r requirements.txt
+    pip install Flask
+    pip install Flask-HTTPAuth
+    pip install matplotlib
+    pip install scikit-learn
     ```
 
 3. **Ensure the data file is present:**
