@@ -15,7 +15,6 @@ FinanceMasterApp is a personal finance management application that helps users t
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Authentication](#authentication)
-- [License](#license)
 
 ## Installation
 
